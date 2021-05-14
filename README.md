@@ -2,7 +2,6 @@
   * [data-sly-list](#data-sly-list)
 - [Backend](#backend)
 
-
 # Frontend
 
 ## data-sly-list
